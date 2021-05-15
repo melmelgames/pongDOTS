@@ -25,7 +25,6 @@ public class GameManager : MonoBehaviour
 
 	WaitForSeconds oneSecond;
 	WaitForSeconds delay;
-
     BlobAssetStore blob;
 
 	private void Awake()
